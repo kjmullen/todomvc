@@ -4,24 +4,6 @@
 
 Create a REST API for use with the Backbone.js TodoMVC app.
 
-## Objectives
-
-After completing this assignment, you should be able to:
-
-* Summarize the REST architecture.
-* Use Django Rest Framework to create an api
-
-### Deliverables
-
-* A Git repo called todomvc-django containing at least:
-  * `README.md` file explaining how to run your project
-  * a `requirements.txt` file
-  * a Django project
-
-### Requirements  
-
-* No PEP8 or Pyflakes warnings or errors
-
 ## Normal Mode
 
 Using the Django REST Framework, build an API with one resource: `todos`.
@@ -43,3 +25,8 @@ The todo resource should have the following fields:
 ## Hard Mode
 
 For hard mode, do everything shown above, plus add functional tests for your API.
+
+## External Links
+* [DRF Tutorial Requests and Reponses](http://www.django-rest-framework.org/tutorial/2-requests-and-responses/)
+* [DRF Class based views](http://www.django-rest-framework.org/api-guide/views/)
+* [DRF Serializers](http://www.django-rest-framework.org/api-guide/serializers/)
